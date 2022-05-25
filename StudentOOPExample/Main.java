@@ -6,6 +6,7 @@ import java.util.LinkedList;
 import java.util.Locale;
 import java.util.Scanner;
 
+//Object oriented programming example. Provides student class, and main class to test Student objects.
 public class Main {
 	public static void main(String[] args) {
 		//create scanner object
